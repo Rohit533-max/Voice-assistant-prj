@@ -1,7 +1,6 @@
 import string
 import random  #to choose the random elements form the list s
 
-
 if __name__ == "__main__":
     s1 = string.ascii_letters   
     #ascii letters contain both upper and lowercase letters
